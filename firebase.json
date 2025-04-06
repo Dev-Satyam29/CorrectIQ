@@ -7,7 +7,7 @@
     "rules": "storage.rules"
   },
   "hosting": {
-    "public": "build",
+    "public": "correctiq/build",
     "ignore": [
       "firebase.json",
       "**/.*",
